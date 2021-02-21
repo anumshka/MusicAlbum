@@ -1,0 +1,91 @@
+*{
+    margin:0;
+    padding:0;
+}
+p{
+    color:maroon;
+    font-size: 1.5rem;
+    margin-left: 5rem;
+}
+a {
+    color:maroon;/* set the text color to blue here */
+    text-decoration:underline;
+  }
+
+  a:hover {
+    color: goldenrod;/* set the text color to red here */
+    text-decoration: none; /* This means we do not want hyperlinks to be underlined */
+  }
+h1 {
+   
+    text-align: center;
+    font-size: 3rem;
+    color :goldenrod ;
+    padding-top: 5rem;
+}
+h2 {
+
+    text-align: center;
+    font-size: 1rem;
+    color: goldenrod;
+    padding-bottom: 5rem;
+}
+h4{
+    text-align: center;
+    padding-bottom: 5rem;
+}
+body{
+    background-image: url("../images/ts.jpg");
+}
+ 
+div{
+    
+    width:17rem;
+    height: 14rem;
+    margin-left: 5rem; 
+    margin-bottom: 20rem;
+    text-align: left;
+    font-size: 0%;
+     border: 1px solid black; 
+}
+.a
+{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    background-image: url("../images/song1.jpg");
+    background-size: 17rem 14rem;
+    background-repeat: no-repeat;
+}
+.b
+{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    background-image: url("../images/song2.jpg");
+    background-size: 17rem 14rem;
+    background-repeat: no-repeat;
+}
+.c
+{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    background-image: url("../images/song3.jpg");
+    background-size: 17rem 14rem;
+    background-repeat: no-repeat;
+}
+.d
+{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    background-image: url("../images/song4.jpg");
+    background-size: 17rem 14rem;
+    background-repeat: no-repeat;
+}
+.e
+{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    background-image: url("../images/song5.jpg");
+    background-size: 17rem 14rem;
+    background-repeat: no-repeat;
+}
+
